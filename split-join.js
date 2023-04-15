@@ -21,5 +21,6 @@ const lines = [
   ] ;
 
   const newSong = lines.join('.');
+  
 
   console.log(newSong);
