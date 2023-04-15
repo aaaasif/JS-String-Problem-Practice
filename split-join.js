@@ -20,6 +20,6 @@ const lines = [
     ' bosonto'
   ] ;
 
-  const newSong = lines.join(',');
+  const newSong = lines.join('.');
 
   console.log(newSong);
