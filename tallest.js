@@ -15,5 +15,7 @@ for(let i = 0; i < numbers.length; i++){
 
 const heights = [180, 130, 260, 200, 300];
 const tallest = maxInArray( heights );
-console.log('tallest persion is', tallest);
+// console.log('tallest persion is', tallest);
+
+
 
